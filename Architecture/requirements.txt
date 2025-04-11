@@ -1,0 +1,16 @@
+torch
+cudatools
+numpy
+cffi==1.14.2
+Pillow
+pyquaternion
+html-testRunner
+setuptools
+natsort
+matplotlib
+wandb
+pynput
+pandas
+git+https://github.com/stepjam/PyRep.git@603d283f02faf4c9874ddbd931bf7bafb3ea50ad#egg=PyRep
+git+https://github.com/stepjam/RLBench.git@ce2e87b4b363da2678ba1ab7980248585a1eb67b#egg=RLBench
+

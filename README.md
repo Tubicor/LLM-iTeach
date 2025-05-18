@@ -21,5 +21,4 @@ This repository contains the code used for the experiments presented in my maste
 
 ## 📄 Thesis Paper
 
-🔗 [Link to the paper](https://your-link-here.com)  
-_(Add the actual link or DOI here once available.)_
+🔗 [Link to the paper](https://arxiv.org/abs/2504.21769)
